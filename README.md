@@ -1,8 +1,8 @@
 #Todo Application
-FrontEnd:
+##FrontEnd:
 1. JSP
 2. BootStrap
-Backend:
+##Backend:
 1. Java
 2. SpringBoot
 3. MySql
